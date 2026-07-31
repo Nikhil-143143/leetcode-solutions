@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
