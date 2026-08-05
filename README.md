@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
