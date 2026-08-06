@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
