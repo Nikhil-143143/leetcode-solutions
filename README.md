@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
 | [0443-string-compression](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0443-string-compression) |
 ## Backtracking
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
