@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0443-string-compression) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Nikhil-143143/leetcode-solutions/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
